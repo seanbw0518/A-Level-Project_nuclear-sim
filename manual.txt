@@ -1,0 +1,114 @@
+NUCLEAR PROCESS SIMULATOR
+\n\n
+
+This program was developed by Sean Womack - 2018.
+\n
+Thank you for using it!
+\n\n
+
+Minimum requirements: \n
+--Intel Pentium processor or equivalent \n
+--256MB of memory \n
+--1MB of disk space \n
+--Mouse & Keyboard \n
+
+\n\n
+FISSION SIMULATION:
+\n\n
+
+This is a simple fission simulation. You can choose your target 
+nucleus on the left of the screen in a dropdown. Enter a thermal 
+neutron velocity in the text field at the top of the screen. Select 
+your desired level of detail by pressing either the A Level button or 
+the GCSE button.
+\n\n
+
+When you select everything, you will see statistics appear in the 
+bottom left of the screen. These are specific for your chosen 
+simulation.
+\n
+When you are ready to begin the simulation, press the start button 
+on the left of the screen. If at any point during the simulation you 
+want to stop it, press the Reset button in the bottom right. 
+\n\n
+
+During the simulation you will see your selected nucleus in the 
+centre of the screen. The projectile neutron is on the left. If you 
+have selected a slower neutron speed (<2km/s) or a faster neutron speed 
+(>8km/s) then the neutron will not interact with the nucleus, and 
+fission will not occur.
+\n\n
+
+FUSION SIMULATION:
+\n\n
+
+This is a simple fusion simulation. You can choose your target 
+nuclei on the left of the screen in dropdowns. Enter a temperature and 
+a pressure in the text fields at the top of the screen. Select 
+your desired level of detail by pressing either the A Level button or 
+the GCSE button.
+\n\n
+
+When you select everything, you will see statistics appear in the 
+bottom left of the screen. These are specific for your chosen 
+simulation.
+\n
+When you are ready to begin the simulation, press the start button 
+on the left of the screen. If at any point during the simulation you 
+want to stop it, press the Reset button in the bottom right. 
+\n\n
+
+During the simulation, two nuclei will move towards each other and interact. 
+If the pressure and temperature is too low, they will repel off of each other. 
+But if they are high enough, then they will fuse.
+\n\n
+
+DECAY SIMULATION:
+\n\n
+
+This is a simple nuclear decay simulation. You can choose your unstable 
+nucleus on the left of the screen in a dropdown. After selecting 
+your nucleus, select a decay mode. Most nuclei will only decay by one 
+mode. Select your desired level of detail by pressing either the A 
+Level button or the GCSE button.
+\n\n
+
+When you select everything, you will see statistics appear in the 
+bottom left of the screen. These are specific for your chosen 
+simulation.
+\n
+When you are ready to begin the simulation, press the start button 
+on the left of the screen. If at any point during the simulation you 
+want to stop it, press the Reset button in the bottom right. 
+\n\n
+
+Once the simulation starts, there will be a random time to wait before
+the nucleus decays. When this happens, you will see the decay products 
+escape the nucleus to the right of the screen.
+\n\n\n
+
+If there is an isotope of an element you want to add, you can do so by 
+opening the respective .csv file for each simulation in the program 
+folder. Just add a row and fill in the information specific to your 
+desired isotope.
+\n
+Please note that each simulation is built for specific types of isotopes. 
+Heavy elements will not work well in the fusion simulation, and light 
+one will not work well in the fission simulation.
+\n\n
+
+DISCLAIMER:
+\n
+I have included accuracy to the best of my ability. However, this 
+program should not be used for serious research. The main purpose 
+of this program is for demonstration purposes. The processes featured 
+are far more complex than they are made to seem, but this complexity 
+is not required at secondary school level.
+\n\n
+
+TITLE IMAGE SOURCE:
+\n
+Wikimedia Commons: https://en.wikipedia.org/wiki/Radioactive_decay#/media/File:Alpha_Decay.svg
+\n\n
+
+Thank you again, and I hope you enjoy and find my program useful.

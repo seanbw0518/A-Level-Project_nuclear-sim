@@ -1,0 +1,4 @@
+Select,name,PROTON,NEUTRON,MASS(u),BIND_ENG (MeV),product_1_name,product_1_pNum,product_1_nNum,product_2_name,product_2_pNum,product_2_nNum
+U-235,Uranium-235,92,143,235.04,1783.87,Ba-141,56,85,Kr-92,36,56
+U-233,Uranium-233,92,141,233.04,7.6,Xe-137,54,83,Sr-94,38,56
+Pu-239,Plutonium-239,94,145,239.05,1806.92,Xe-134,54,80,Zr-103,40,63

@@ -1,0 +1,9 @@
+Select,name,PROTON,NEUTRON,MASS (u),half-life,alpha decay energy,beta- decay energy,beta+ decay energy,gamma decay energy
+C-14,Carbon-14,6,8,14,5708 years,0.00,0.16,0.00,0.00
+U-238,Uranium-238,92,146,238.05,4.5e9 years,4.27,0.00,0.00,0.00
+Pu-239,Plutonium-239,94,145,239.05,24110 years,5.16,0.00,0.00,0.00
+Sr-90,Strontium-90,38,52,89.91,29 years,0.00,0.55,0.00,0.00
+Cs-137,Cesium-137,55,82,136.91,30 years,0.00,0.51,0.00,0.00
+Cs-132,Cesium-132,55,77,131.91,6 days,0.00,1.28,1.10,0.00
+Ba-137m1,Barium-137 (m),56,81,136.91,2.5 minutes,0.00,0.00,0.00,0.66
+H-3,Tritium,1,2,3.02,12.3 years,0.00,0.02,0.00,0.00
